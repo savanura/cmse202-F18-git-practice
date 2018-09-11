@@ -264,7 +264,7 @@ Now we’re going to clone a repository that already exists remotely.
 To do this, create a directory somewhere on your computer where you’re OK
 with putting the repository and then do the following:
 
-`$ git clone https://github.com/msu-cmse-courses/cmse202-S18-git-practice`
+`$ git clone https://github.com/msu-cmse-courses/cmse202-F18-git-practice`
 
 If you were to go to that URL, you would see the repository that already
 exists and you should see that the properties of the repository match
